@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **Cyber Security | Web Development | Programmig | Robotic**
+- 💬 Ask me about **Cyber Security | Networking |  Programmig | Robotic | Web Development**
 
 - 📫 How to reach me **datagurtchumelia@geoguard.cloud**
 
