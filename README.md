@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Data Gurtchumelia</h1>
-<h3 align="center">Founder And CEO of GeoGuard ︱Cyber Security Specialist ︱Cyber Security Engineer︱ Ethical Hacker</h3>
+<h3 align="center">Founder And CEO of GeoGuard ︱Cyber Security Specialist / Engineer ︱ Software Developer︱ Ethical Hacker</h3>
 
 - 🔭 I’m currently working on [GeoGuard / Services](http://geoguard.cloud/)
 
