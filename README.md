@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GeoGuard / Services](http://geoguard.cloud/)
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **AI/ML || Quantum Computing**
 
 - 💬 Ask me about **Cyber Security | Networking |  Programmig | Robotic | Web Development**
 
